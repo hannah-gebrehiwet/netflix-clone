@@ -23,6 +23,7 @@
     justify-content: space-between;
     align-items: center;
     /* background-color: red; */
+
  } 
  .header-left ul{
     width: 140%;
@@ -31,6 +32,7 @@
     color: white; 
     /* background-color:  red; */
       cursor: pointer;
+    
  } 
  .header-right ul {
  
